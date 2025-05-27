@@ -1,0 +1,95 @@
+2025-05-27 18:32:58 - LEVEL_START: DummyLevel - Target: Waiting for mission...
+2025-05-27 18:32:58 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-27 18:32:58 - GAME_RESPONSE: Waiting for mission...
+Try: hack youtube.com, hack google.com, hack pentagon.gov
+2025-05-27 18:33:07 - USER_COMMAND: hack youtube.com
+2025-05-27 18:33:07 - TARGET_SELECTION: youtube.com
+2025-05-27 18:33:07 - LEVEL_START: EasyLevel - Target: Target: youtube.com (test system)
+2025-05-27 18:33:07 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-27 18:33:07 - GAME_RESPONSE: Target: youtube.com (test system)
+2025-05-27 18:33:11 - USER_COMMAND: exit
+2025-05-27 18:33:11 - GAME_RESPONSE: Aborting hacking... Returning to menu.
+2025-05-27 18:33:11 - LEVEL_START: DummyLevel - Target: Waiting for mission...
+2025-05-27 18:33:11 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-27 18:33:11 - GAME_RESPONSE: Waiting for mission...
+Try: hack youtube.com, hack google.com, hack pentagon.gov
+2025-05-27 18:33:20 - USER_COMMAND: hack youtube.com
+2025-05-27 18:33:20 - TARGET_SELECTION: youtube.com
+2025-05-27 18:33:20 - LEVEL_START: EasyLevel - Target: Target: youtube.com (test system)
+2025-05-27 18:33:20 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-27 18:33:20 - GAME_RESPONSE: Target: youtube.com (test system)
+2025-05-27 18:33:25 - USER_COMMAND: scan youtube.com
+2025-05-27 18:33:25 - GAME_RESPONSE: Port 443 is open.
+2025-05-27 18:33:54 - USER_COMMAND: inject --port 443 --payload bypass
+2025-05-27 18:33:54 - GAME_RESPONSE: Access granted. Welcome to YouTube admin panel.
+2025-05-27 18:33:54 - LEVEL_COMPLETED: EasyLevel
+2025-05-27 18:33:57 - LEVEL_START: DummyLevel - Target: Waiting for mission...
+2025-05-27 18:33:57 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-27 18:33:57 - GAME_RESPONSE: Waiting for mission...
+Try: hack youtube.com, hack google.com, hack pentagon.gov
+2025-05-27 18:35:28 - LEVEL_START: DummyLevel - Target: Waiting for mission...
+2025-05-27 18:35:28 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-27 18:35:28 - GAME_RESPONSE: Waiting for mission...
+Try: hack youtube.com, hack google.com, hack pentagon.gov
+2025-05-27 18:35:35 - USER_COMMAND: hack youtube.com
+2025-05-27 18:35:35 - TARGET_SELECTION: youtube.com
+2025-05-27 18:35:35 - LEVEL_START: EasyLevel - Target: Target: youtube.com (test system)
+2025-05-27 18:35:35 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-27 18:35:35 - GAME_RESPONSE: Target: youtube.com (test system)
+2025-05-27 18:35:42 - USER_COMMAND: scan youtube.com
+2025-05-27 18:35:42 - GAME_RESPONSE: Port 443 is open.
+2025-05-27 18:36:00 - USER_COMMAND: connect 443
+2025-05-27 18:36:00 - GAME_RESPONSE: Unknown or incorrect command.
+2025-05-27 18:36:25 - USER_COMMAND: inject --port 443 --payload bypass
+2025-05-27 18:36:25 - GAME_RESPONSE: Access granted. Welcome to YouTube admin panel.
+2025-05-27 18:36:25 - LEVEL_COMPLETED: EasyLevel
+2025-05-27 18:36:28 - LEVEL_START: DummyLevel - Target: Waiting for mission...
+2025-05-27 18:36:28 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-27 18:36:28 - GAME_RESPONSE: Waiting for mission...
+Try: hack youtube.com, hack google.com, hack pentagon.gov
+2025-05-27 18:36:35 - USER_COMMAND: hack google.com
+2025-05-27 18:36:35 - TARGET_SELECTION: google.com
+2025-05-27 18:36:35 - LEVEL_START: MediumLevel - Target: Target: google.com (medium security)
+2025-05-27 18:36:35 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-27 18:36:35 - GAME_RESPONSE: Target: google.com (medium security)
+2025-05-27 18:36:50 - USER_COMMAND: scan google.com
+2025-05-27 18:36:50 - GAME_RESPONSE: Ports 80 and 443 are open
+2025-05-27 18:36:55 - USER_COMMAND: connect 443
+2025-05-27 18:36:55 - GAME_RESPONSE: Connection established to port 443
+2025-05-27 18:37:31 - USER_COMMAND: inject --port 443 -- payload rootkit
+2025-05-27 18:37:31 - GAME_RESPONSE: Unknown or incorrect command.
+2025-05-27 18:38:03 - USER_COMMAND: inject --port 433 --payload rootkit
+2025-05-27 18:38:03 - GAME_RESPONSE: Unknown or incorrect command.
+2025-05-27 18:39:42 - USER_COMMAND: inject --port 443 --payload rootkit'
+2025-05-27 18:39:42 - GAME_RESPONSE: Unknown or incorrect command.
+2025-05-27 18:39:57 - USER_COMMAND: inject --port 443 --payload rootkit
+2025-05-27 18:39:57 - GAME_RESPONSE: Rootkit injected successfully. Admin console accessed. |  | Level completed! Returning to main menu...
+2025-05-27 18:39:57 - LEVEL_COMPLETED: MediumLevel
+2025-05-27 18:40:00 - LEVEL_START: DummyLevel - Target: Waiting for mission...
+2025-05-27 18:40:00 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-27 18:40:00 - GAME_RESPONSE: Waiting for mission...
+Try: hack youtube.com, hack google.com, hack pentagon.gov
+2025-05-27 18:40:12 - USER_COMMAND: hack pentagon.gov
+2025-05-27 18:40:12 - TARGET_SELECTION: pentagon.gov
+2025-05-27 18:40:12 - LEVEL_START: HardLevel - Target: Target: pentagon.gov (high security)
+2025-05-27 18:40:12 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-27 18:40:12 - GAME_RESPONSE: Target: pentagon.gov (high security)
+2025-05-27 18:40:18 - USER_COMMAND: scan pentagon.gov
+2025-05-27 18:40:18 - GAME_RESPONSE: Firewall detected. Obfuscation needed.
+2025-05-27 18:40:27 - USER_COMMAND: spoof firewall
+2025-05-27 18:40:27 - GAME_RESPONSE: Firewall spoofed successfully
+2025-05-27 18:40:52 - USER_COMMAND: scan pentagon.gov
+2025-05-27 18:40:52 - GAME_RESPONSE: Firewall detected. Obfuscation needed.
+2025-05-27 18:41:05 - USER_COMMAND: scan pentagon.gov --stealth
+2025-05-27 18:41:05 - GAME_RESPONSE: Ports 22 and 8080 open
+2025-05-27 18:41:17 - USER_COMMAND: connect 22
+2025-05-27 18:41:17 - GAME_RESPONSE: SSH connection established. Requires credentials.
+2025-05-27 18:41:32 - USER_COMMAND: inject zero-day
+2025-05-27 18:41:32 - GAME_RESPONSE: Unknown or incorrect command.
+2025-05-27 18:41:59 - USER_COMMAND: inject --port 22 --payload zero-day
+2025-05-27 18:41:59 - GAME_RESPONSE: Zero-day exploit executed. Root shell obtained. |  | Level completed! Returning to main menu...
+2025-05-27 18:41:59 - LEVEL_COMPLETED: HardLevel
+2025-05-27 18:42:02 - LEVEL_START: DummyLevel - Target: Waiting for mission...
+2025-05-27 18:42:02 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-27 18:42:02 - GAME_RESPONSE: Waiting for mission...
+Try: hack youtube.com, hack google.com, hack pentagon.gov

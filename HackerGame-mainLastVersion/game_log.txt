@@ -1,0 +1,32 @@
+2025-05-27 18:11:24 - LEVEL_START: DummyLevel - Target: Waiting for mission...
+2025-05-27 18:11:24 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-27 18:11:24 - GAME_RESPONSE: Waiting for mission...
+Try: hack youtube.com, hack google.com, hack pentagon.gov
+2025-05-27 18:11:48 - USER_COMMAND: scan youtube.com
+2025-05-27 18:11:48 - GAME_RESPONSE: Unknown or incorrect command.
+2025-05-27 18:11:54 - USER_COMMAND: hack youtube.com
+2025-05-27 18:11:54 - TARGET_SELECTION: youtube.com
+2025-05-27 18:11:54 - LEVEL_START: EasyLevel - Target: Target: youtube.com (test system)
+2025-05-27 18:11:54 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-27 18:11:54 - GAME_RESPONSE: Target: youtube.com (test system)
+2025-05-27 18:11:59 - USER_COMMAND: scan youtube.com
+2025-05-27 18:11:59 - GAME_RESPONSE: Unknown or incorrect command.
+2025-05-27 18:12:04 - USER_COMMAND: hint
+2025-05-27 18:12:04 - GAME_RESPONSE: Hint: first scan youtube.com, then use inject with the correct port and payload.
+2025-05-27 18:12:12 - USER_COMMAND: scan youtube.com
+2025-05-27 18:12:12 - GAME_RESPONSE: Unknown or incorrect command.
+2025-05-27 18:12:18 - USER_COMMAND: hint
+2025-05-27 18:12:18 - GAME_RESPONSE: Hint: first scan youtube.com, then use inject with the correct port and payload.
+2025-05-27 18:12:22 - USER_COMMAND: exit
+2025-05-27 18:12:22 - GAME_RESPONSE: Aborting hacking... Returning to menu.
+2025-05-27 18:12:22 - LEVEL_START: DummyLevel - Target: Waiting for mission...
+2025-05-27 18:12:22 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-27 18:12:22 - GAME_RESPONSE: Waiting for mission...
+Try: hack youtube.com, hack google.com, hack pentagon.gov
+2025-05-27 18:12:29 - USER_COMMAND: hack youtube.com
+2025-05-27 18:12:29 - TARGET_SELECTION: youtube.com
+2025-05-27 18:12:29 - LEVEL_START: EasyLevel - Target: Target: youtube.com (test system)
+2025-05-27 18:12:29 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-27 18:12:29 - GAME_RESPONSE: Target: youtube.com (test system)
+2025-05-27 18:12:34 - USER_COMMAND: scan youtube.com
+2025-05-27 18:12:34 - GAME_RESPONSE: Unknown or incorrect command.

@@ -13,14 +13,3 @@
 - 🕹️ ASCII animeeritud splash-ekraan
 - 🗂️ Mängulogi salvestamine automaatselt
 
----
-
-## 🚀 Käivitamine
-
-Veendu, et sul on Java 17+ ning JavaFX seadistatud.
-
-```bash
-git clone https://github.com/sinu-kasutajanimi/terminal-hacker-game.git
-cd terminal-hacker-game
-javac -d out --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml src/org/example/gameofhacks/*.java
-java -cp out --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml org.example.gameofhacks.Main

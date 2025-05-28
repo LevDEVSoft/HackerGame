@@ -1,0 +1,54 @@
+2025-05-28 14:41:43 - LEVEL_START: DummyLevel - Target: Waiting for mission...
+2025-05-28 14:41:43 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-28 14:41:43 - GAME_RESPONSE: Waiting for mission...
+Try: hack youtube.com, hack google.com, hack pentagon.gov
+2025-05-28 14:41:51 - USER_COMMAND: hack youtube.com
+2025-05-28 14:41:51 - TARGET_SELECTION: youtube.com
+2025-05-28 14:41:51 - LEVEL_START: EasyLevel - Target: Target: youtube.com (test system)
+2025-05-28 14:41:51 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-28 14:41:51 - GAME_RESPONSE: Target: youtube.com (test system)
+2025-05-28 14:41:59 - USER_COMMAND: scan youtube.com
+2025-05-28 14:41:59 - GAME_RESPONSE: Port 443 is open.
+2025-05-28 14:42:05 - USER_COMMAND: connect 443
+2025-05-28 14:42:05 - GAME_RESPONSE: Unknown or incorrect command.
+2025-05-28 14:42:35 - USER_COMMAND: inject --port 443 --payload bypass
+2025-05-28 14:42:35 - GAME_RESPONSE: Access granted. Welcome to YouTube admin panel.
+2025-05-28 14:42:35 - LEVEL_COMPLETED: EasyLevel
+2025-05-28 14:42:38 - LEVEL_START: DummyLevel - Target: Waiting for mission...
+2025-05-28 14:42:38 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-28 14:42:38 - GAME_RESPONSE: Waiting for mission...
+Try: hack youtube.com, hack google.com, hack pentagon.gov
+2025-05-28 14:51:12 - LEVEL_START: DummyLevel - Target: Waiting for mission...
+2025-05-28 14:51:12 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-28 14:51:12 - GAME_RESPONSE: Waiting for mission...
+Try: hack youtube.com, hack google.com, hack pentagon.gov
+2025-05-28 14:51:15 - USER_COMMAND: showlog
+2025-05-28 14:51:15 - USER_COMMAND: showlog
+2025-05-28 14:51:15 - GAME_RESPONSE: Displaying game log.
+2025-05-28 14:51:25 - USER_COMMAND: hack youtube.com
+2025-05-28 14:51:25 - TARGET_SELECTION: youtube.com
+2025-05-28 14:51:25 - LEVEL_START: EasyLevel - Target: Target: youtube.com (test system)
+2025-05-28 14:51:25 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-28 14:51:25 - GAME_RESPONSE: Target: youtube.com (test system)
+2025-05-28 14:54:17 - LEVEL_START: DummyLevel - Target: Waiting for mission...
+2025-05-28 14:54:17 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-28 14:54:17 - GAME_RESPONSE: Waiting for mission...
+Try: hack youtube.com, hack google.com, hack pentagon.gov
+2025-05-28 14:54:23 - USER_COMMAND: scan youtube.com
+2025-05-28 14:54:23 - GAME_RESPONSE: Type 'hack <target>' to begin.
+2025-05-28 14:54:30 - USER_COMMAND: hack youtube.com
+2025-05-28 14:54:30 - TARGET_SELECTION: youtube.com
+2025-05-28 14:54:30 - LEVEL_START: EasyLevel - Target: Target: youtube.com (test system)
+2025-05-28 14:54:30 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-28 14:54:30 - GAME_RESPONSE: Target: youtube.com (test system)
+2025-05-28 14:54:34 - USER_COMMAND: scna youtube.com
+2025-05-28 14:54:34 - GAME_RESPONSE: Unknown or incorrect command.
+2025-05-28 14:54:39 - USER_COMMAND: scan youtube.com
+2025-05-28 14:54:39 - GAME_RESPONSE: Port 443 is open.
+2025-05-28 14:55:13 - USER_COMMAND: inject --port 443 --payload bypass
+2025-05-28 14:55:13 - GAME_RESPONSE: Access granted. Welcome to YouTube admin panel.
+2025-05-28 14:55:13 - LEVEL_COMPLETED: EasyLevel
+2025-05-28 14:55:16 - LEVEL_START: DummyLevel - Target: Waiting for mission...
+2025-05-28 14:55:16 - GAME_RESPONSE: Welcome to Terminal Hacker Game
+2025-05-28 14:55:16 - GAME_RESPONSE: Waiting for mission...
+Try: hack youtube.com, hack google.com, hack pentagon.gov

@@ -1,5 +1,11 @@
 package org.example.gameofhacks;
 
+/**
+ * See klass esindab mängu kerget taset.
+ * Sisaldab lihtsat loogikat ja käske, mis on mõeldud algajatele.
+ * Taseme lahendamine on seotud kindla käskude jadaga.
+ */
+
 public class EasyLevel extends Level {
 
     private boolean levelCompleted = false;

@@ -1,5 +1,11 @@
 package org.example.gameofhacks;
 
+/**
+ * See klass esindab mängu alg- või ooteseisundit.
+ * Annab mängijale esmased juhised ja suunab ta ülesannet valima.
+ * Sellel tasemel ei ole konkreetset lahendust ega keerulist loogikat.
+ */
+
 public class DummyLevel extends Level {
 
     @Override

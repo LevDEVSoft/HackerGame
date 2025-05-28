@@ -1,5 +1,11 @@
 package org.example.gameofhacks;
 
+/**
+ * See klass esindab mängu keskmise raskusega taset.
+ * Mängija peab kasutama mitut käsku, et saavutada juurdepääs süsteemile.
+ * Tase nõuab mõõdukat loogilist mõtlemist ja õiget käskude järjekorda.
+ */
+
 public class MediumLevel extends Level {
     private boolean solved = false;
 

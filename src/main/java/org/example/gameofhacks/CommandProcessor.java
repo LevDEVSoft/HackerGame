@@ -1,5 +1,11 @@
 package org.example.gameofhacks;
 
+/**
+ * See klass töötleb mängus sisestatud käske.
+ * Otsustab, mida käsuga teha ja edastab selle vastavale tasemele.
+ * Haldab ka üldisi käske nagu "hint".
+ */
+
 public class CommandProcessor {
     private Level currentLevel;
 
@@ -8,12 +14,16 @@ public class CommandProcessor {
     }
 
     public String process(String input) {
-        if (currentLevel.isSolved(input)) {
-            return "Access granted! Level complete.";
+
+        if (currentLevel.isSolved(input.trim())) {
+
+            return currentLevel.processCommand(input.trim());
         }
+
         if (input.equalsIgnoreCase("hint")) {
             return currentLevel.getHint();
         }
-        return "Unknown or incorrect command.";
+
+        return currentLevel.processCommand(input.trim());
     }
 }

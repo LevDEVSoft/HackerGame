@@ -1,6 +1,6 @@
 # ☠ Terminal Hacker Game ☠
 
-🖥️ **Terminal Hacker Game** on retrostiilis JavaFX-mäng, kus mängija sukeldub häkkeri rolli. Ülesandeks on murda läbi erinevate sihtmärkide turvalahendustest kasutades tekstipõhiseid käske, loogikat ja natuke nuputamist.
+🖥️ **Terminal Hacker Game** on JavaFX-mäng, kus mängija sukeldub häkkeri rolli. Ülesandeks on murda läbi erinevate sihtmärkide turvalahendustest kasutades tekstipõhiseid käske, loogikat ja natuke nuputamist.
 
 ---
 
